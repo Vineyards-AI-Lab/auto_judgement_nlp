@@ -1,5 +1,5 @@
 # auto_judgement_nlp
-auto-judgement using nlp-ai tech
+Efficient Court Justice Using Auto-Judgement with Artificial Intelligence
 
 Published by Journal of High School Science
 
