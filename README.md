@@ -7,19 +7,19 @@ Citation of this article
 
 @Article{Liu2024,
 
-  author    = {Liu, Phoebe and Liu, Josephine and Liu, Joseph and Ding, Emily X},
+         author    = {Liu, Phoebe and Liu, Josephine and Liu, Joseph and Ding, Emily X},
   
-  journal   = {Journal of High School Science},
+         journal   = {Journal of High School Science},
   
-  title     = {Efficient Court Justice Using Auto-Judgement with Artificial Intelligence},
+         title     = {Efficient Court Justice Using Auto-Judgement with Artificial Intelligence},
   
-  year      = {2024},
+         year      = {2024},
   
-  number    = {1},
+         number    = {1},
   
-  pages     = {144 - 165},
+         pages     = {144 - 165},
   
-  volume    = {8},
+         volume    = {8},
   
 }
 
